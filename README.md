@@ -1,17 +1,24 @@
  
-### 说明
-
+## 说明
 
 #  本源码来源于sirpdboy固件源码，目前使用上基本没问题。 https://github.com/sirpdboy
 
-###【特色】
+##【特色】
+
 MOSDNS 支持
+
 DNS over Https(DoH) 支持
+
 基于ChinaDNS-NG的国外智能DNS解析, 可与AdGuardHome搭配使用 (AdGuardHome->DNSMASQ->ChinaDNS-NG->SmartDNS)
+
 走代理网站屏蔽IPV6,不影响其他正常网站使用IPV6
+
 国内DNS方案集成
+
 故障转移支持中转节点
+
 功能与视觉体验增强
+
 其他大量修复与优化
 
 TG交流与反馈 ：https://t.me/+RV6mxIxZJVDByibQ
