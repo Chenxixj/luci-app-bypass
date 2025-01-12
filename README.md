@@ -3,7 +3,9 @@
 
 #  本源码来源于sirpdboy固件源码，目前使用上基本没问题。 https://github.com/sirpdboy
 
-##【特色】
+## 特色 
+
+Smartdns 支持
 
 MOSDNS 支持
 
