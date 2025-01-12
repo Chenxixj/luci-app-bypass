@@ -1,11 +1,10 @@
-
-
-### 本源码来源于sirpdboy固件源码，目前使用上基本没问题。
-
- https://github.com/sirpdboy
  
-### 特色
+### 说明
 
+
+#  本源码来源于sirpdboy固件源码，目前使用上基本没问题。 https://github.com/sirpdboy
+
+###【特色】
 MOSDNS 支持
 DNS over Https(DoH) 支持
 基于ChinaDNS-NG的国外智能DNS解析, 可与AdGuardHome搭配使用 (AdGuardHome->DNSMASQ->ChinaDNS-NG->SmartDNS)
